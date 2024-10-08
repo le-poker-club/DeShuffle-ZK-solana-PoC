@@ -5,7 +5,7 @@ check the circuits folder
 ### 2. Prepare verification key
 1. Generate ptau file
   - by CLI：`cd helpers && sh ptau.sh`
-  - Download from internet：https://p0x-labs.s3.amazonaws.com/zkShuffle/ptau.12
+  - Download from internet：https://storage.googleapis.com/zkevm/ptau/powersOfTau28_hez_final_12.ptau
 2. Generate zkey
   - by CLI：`cd helpers && sh zkey.sh`
 3. Use zkey to generate verification key
